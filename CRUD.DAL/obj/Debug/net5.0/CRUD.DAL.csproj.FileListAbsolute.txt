@@ -1,0 +1,12 @@
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\bin\Debug\net5.0\CRUD.DAL.deps.json
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\bin\Debug\net5.0\CRUD.DAL.dll
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\bin\Debug\net5.0\CRUD.DAL.pdb
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\obj\Debug\net5.0\CRUD.DAL.csproj.AssemblyReference.cache
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\obj\Debug\net5.0\CRUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\obj\Debug\net5.0\CRUD.DAL.AssemblyInfoInputs.cache
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\obj\Debug\net5.0\CRUD.DAL.AssemblyInfo.cs
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\obj\Debug\net5.0\CRUD.DAL.csproj.CoreCompileInputs.cache
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\obj\Debug\net5.0\CRUD.DAL.dll
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\obj\Debug\net5.0\refint\CRUD.DAL.dll
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\obj\Debug\net5.0\CRUD.DAL.pdb
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.DAL\obj\Debug\net5.0\ref\CRUD.DAL.dll

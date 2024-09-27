@@ -1,0 +1,15 @@
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\bin\Debug\net5.0\CRUD.BLL.deps.json
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\bin\Debug\net5.0\CRUD.BLL.dll
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\bin\Debug\net5.0\CRUD.BLL.pdb
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\bin\Debug\net5.0\CRUD.DAL.dll
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\bin\Debug\net5.0\CRUD.DAL.pdb
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\obj\Debug\net5.0\CRUD.BLL.csproj.AssemblyReference.cache
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\obj\Debug\net5.0\CRUD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\obj\Debug\net5.0\CRUD.BLL.AssemblyInfoInputs.cache
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\obj\Debug\net5.0\CRUD.BLL.AssemblyInfo.cs
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\obj\Debug\net5.0\CRUD.BLL.csproj.CoreCompileInputs.cache
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\obj\Debug\net5.0\CRUD.BLL.csproj.CopyComplete
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\obj\Debug\net5.0\CRUD.BLL.dll
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\obj\Debug\net5.0\refint\CRUD.BLL.dll
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\obj\Debug\net5.0\CRUD.BLL.pdb
+D:\El-asdekaa\Documents\Projects\CRUD_Operation_App-Solution\CRUD.BLL\obj\Debug\net5.0\ref\CRUD.BLL.dll
